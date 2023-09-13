@@ -46,7 +46,7 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"')
+print('#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"')
 print(banner)
 #s = requests.Session()
 with open('../youtube_channel_info.txt') as f:
