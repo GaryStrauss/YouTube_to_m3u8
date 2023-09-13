@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-24 News Malayalam | Malayalam News| https://i.imgur.com/ugaA68G.jpg | ts799
+24 News | Malayalam News| https://i.imgur.com/ugaA68G.jpg | ts799
 https://www.youtube.com/c/24OnLive/live
 
 Kairali News | Malayalam News | https://i.imgur.com/cKZVrIC.jpg | ts211
