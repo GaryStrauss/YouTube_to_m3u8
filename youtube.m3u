@@ -12,40 +12,40 @@
 
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/ugaA68G.jpg" tvg-id="ts799", 24 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205076/ei/9BodZvH6L7OpkucPkvK78A4/ip/40.67.133.146/id/1wECsnGZcfc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129851/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy2kCqWDM0rFIeVTcIv79NlPxGyid1deb0ja75fsisccy5bd3bUAovTK/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP9KgIN_7oZee0WmLxQFZQvUTr2fPupeVp4Dvr0f8bk8AiBaJPGKotAqWy3BWu1UugFUh7a2cEWfOxtyznviY5LArw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/cKZVrIC.jpg" tvg-id="ts211", Kairali News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/Rf4VNGd.png" tvg-id="ts532", Asianet News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205077/ei/9RodZqyCEo2j0_wPwrussAo/ip/40.67.133.146/id/Ko18SgceYX8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxTJhcEtHISd8BtKaXFGzpD9mQmOdxpYVxr57d5H7seHsKC1dhQnMLlW/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQ9o6tpjXA1XeEY80MZDfgDaGDXiSRLT-RRiM-3qCGasCIFQgxP54o7qPbXnR3nof1Yzl01AWv39_onJ-qr11tjh8/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png" tvg-id="ts394", Mathrubhumi News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205077/ei/9RodZue4OI6JkucP0b28oAg/ip/40.67.133.146/id/YGEgelAiUf0.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118566/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/maudio/1/spc/UWF9f1V0tvDCcUFOfvkcxQaOaKXIWzPWoVpWLLsdKR9l2pDc2Sf_TLjr-wfQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWTrsD-4DZk2ZGyGJf-6oGByeueBCU_TfOHc54LB3aMMCIDsLydXbnwkjmlIeOQA1ngJ5Jd0u9y-b3lmqKfbi3NSs/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/Gur2tiZ.png" tvg-id="ts576", Media One News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205078/ei/9hodZujkIcGFkucP_9yauAg/ip/40.67.133.146/id/uIlw6VGvXuM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9jy33ZYcE3NCh9u-UoXOADFax-UchIebuR2z-4fB_mJumBnPbWWJvtk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJIncip_pfg-xLOFrdAn-zv4jMdJxj9M8XpHMgAh0x_KAiEAiz3jgrB20AmnTuYsTtV7FwpMdD3PQmkNgqgMmgwy43c%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/RwYRTX0.jpg" tvg-id="", Kerala Vision News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205079/ei/9xodZrrvBP_lj-8P452I0AU/ip/40.67.133.146/id/b00Xxk_0JQ0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118563/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_mw5AabewLBFUkEwWG_nPl8VUqxVrDPXMnnNUriHM4mwbtmeaOHD254/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgN0LDiql-024bGtXAdAfLLEUDxzNvMsfDc0T-VvVYopgCIQCHdY7IoWYoCxKR-43TMP7P2_A1C4r4hWijBr01HAOgwQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/NEVvQDp.png" tvg-id="ts87", Manorama News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205079/ei/9xodZqetJaKJkucPsKat0Aw/ip/40.67.133.146/id/tgBTspqA5nY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-Y8-Tx99m2yEiJKqPGjsIZzXfG995yuOZsnVr0obXrhAaihCEZMTHlS/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPQa5SxaN29rwpQg-buomjXHZkUZn-XWDBPqp6SyjCy7AiEAw2YXgPxg89BX-k2Q2H8uM-YAsD7gp1vyX3U46tzcgwE%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/xvL6rm9.png" tvg-id="ts66", News 18 Kerala
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205080/ei/-BodZsaoEaGgkucP1_WcqAI/ip/40.67.133.146/id/YiasOv557gs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6s1q1d2XZo7P5okBgeNSXidtTHcWJzI869fze8TJne79qRuAFv3Tjb0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFO0aVMb2Q16g0FbrFnms7mo4S39uE0YQ-wWPtpnHumACIQD8gYFoSF2RWm2qUJxGAX38USJ0waY7WAAibXTatF3z5w%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/110yJD1.jpg" tvg-id="ts428", Raj News Malayalam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205080/ei/-BodZpbBNaqLkucP24WTsA4/ip/40.67.133.146/id/oT73wEgmzvM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129852/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7DqUEcWGcdXWKKeoCtpfjs-85AH-B6bDbV-Beg-j_XHhT_fcQoXuxct/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgAmShkNbyCtppLRBoE9Jpw7vtR3icX53JjhY1FrMHwqwCIQC5gA_4IqA3MNuLGi6o0tog1d7zLcDYpO8xXomYht35qw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/QizsPai.jpg" tvg-id="ts378", Kaumudy News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/Yf2vsnk.jpg" tvg-id="ts1124", Reporter TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205081/ei/-RodZpDnM9WAkucPg5Wk6AQ/ip/40.67.133.146/id/HGOiuQUwqEw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1yJ03T1vNK4tGPy0143AcfBo0zcJHFB8BYIaWfR-5NY4bD-pUMKv3iL/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALTDqXvKmd9SqyoDc1atjgL2cVkwfv0erDyz8AHdiIlaAiEAusCJRkdxs9U1t2p8WPV5Ntu0P97HcP6Tq7S-gMHlNv8%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/C7IaIKC.png" tvg-id="ts270", Janam TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713205082/ei/-hodZorwFt6fkucP94a3sAI/ip/40.67.133.146/id/kcSH3VwhosQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-7PgaaGjF5i9FD_gyTSEMjfwaPBILFl2Xag6-5w1bOCdnEXHkKY2NRI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIS84qWqiAiVPOtA8qrvRMVZJ0-A_kpDoBq4vzBeJjGECIEBg7Rjc9Us8kubSo_CPwBC96IOCyWF5T47hzBTjKPYo/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/M8AVN9C.jpg" tvg-id="ts370", Jaihind TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
