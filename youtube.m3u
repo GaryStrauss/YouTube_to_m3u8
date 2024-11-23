@@ -15,13 +15,13 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/cKZVrIC.jpg" tvg-id="ts211", Kairali News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732407286/ei/lhtCZ9uiAr-8sfIPg_qV-Q4/ip/52.234.38.243/id/wq0ecjkN3G8.91/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AQn3pFRGzAdJ67RXoZ4qMcqijOcCD3olr4tSIla1mD1a4hHFMctRvoO2B_aqm3Jo8SI91K8jL03MtfxD/spc/qtApAacngkB1HFQDD6GA_pLHE70o3H6SFLcH_e2HMHmpmDr868PmU8-FGxCY9zs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDfJ77fHtC9Q5JgxZdBpv7hVbJc7ghN2jappiJ76eFSUCIQDiAtInE2KKSNRiJhWdpRexDBY6feMErbTC1cG6lDC55A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/Rf4VNGd.png" tvg-id="ts532", Asianet News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/4LLHsjk.jpeg" tvg-id="ts394", Mathrubhumi News
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732407289/ei/mRtCZ9uFE--zsfIPt960gQM/ip/52.234.38.243/id/YGEgelAiUf0.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337703/txs/51337701%2C51337702%2C51337703%2C51337704/hfr/1/maudio/1/spc/qtApAUMg9yoj63_aKoU2E7IHalJieGf6sBO9R0dJlXJnQdc6g2r7JAeeWLQlPWM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVCBg-Ff8nxwHpSTuDb9ofiAqmZOqyOQv2Wn-iQ8vQQ4CIQCw85JLwYmRHwf8l_fi0f7kIUIv6W7uu7s56vKKMbfYgQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/Gur2tiZ.png" tvg-id="ts576", Media One News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
