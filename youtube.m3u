@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/M8AVN9C.jpg" tvg-id="ts370", Jaihind TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736025020/ei/XE95Z-mxHZm-sfIP5svvcQ/ip/13.83.123.127/id/HiebDjFFyGU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/x-caUFgqHqUtP8IcONHXP_5Ab7nr2DjWeZGDt6SCXoMBbkKfqEC9qdpW0KaOkQA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPFD9NeSWmyN41kXuztzS66f4FYd2qd5iaT1gcvBU6fVAiAkAkpMDst4PchAPRS4nu1vl9GzJH8n5b636Wg3ks-v-Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/Pohu17a.jpeg" tvg-id="", News Malayalam 24x7
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
