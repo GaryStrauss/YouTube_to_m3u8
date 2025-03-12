@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/cKZVrIC.jpg" tvg-id="ts211", Kairali News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1741771294/ei/vv3QZ8eGF8b4sfIPxtSwyQE/ip/52.155.62.3/id/wq0ecjkN3G8.184/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3wtj2pJbcWQ1QSF5AvT0IGQyo10dbr2RkaOLLQm8-KdXMQ8pYTf6KBL2RXk_XdKq9kHvWdxP2jt/spc/RjZbSWZ6XnFTaT2ANlrhGFD8BY85bcKdAylgei-QQcmtIoQJwI6e2waK_ZXgmPU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912%2C51358317%2C51387516%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMqCIpdadElkmfQVt9EgtSJyYqqpHFthdH6oEGz4aNohAiAIa3OkYN7INeqoWK7Tptcic7mEO8_6ObhvwUFzDqMEXw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/Rf4VNGd.png" tvg-id="ts532", Asianet News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
