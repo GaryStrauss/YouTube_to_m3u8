@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/Yf2vsnk.jpg" tvg-id="ts1124", Reporter TV
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773285928/ei/yN2xaabkKu-a2_gPs-Wo4Q8/ip/40.116.72.213/id/nObUcHKZEGY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AVNa5-wEwQoFebCz7VfuViCcPAX5wDx350vGn5-cAIDfEhfcuI5oUPTeknjRsGlc-Y8n9AGDLVQH96GI/spc/6dlaFGc0Vm918mluXfPpnU_gbgYba2xB031TbLPSnOTuH2kYGb3OMip8FlnWF2MkVoCjNQ/vprv/1/go/1/ns/AzP8sucnNi3KHIiUkFbQgrwT/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51791334/dover/11/n/T_-LIPTlw7tRViK/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAJvkI4-5kJvL4kjGnZCBgRISUmoHbbNOchUYdyUP4FjeAiEArxbpmwRY7PCUSHkY3gE9vb2gze71t1ZKShsiFTDFiIM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam News" tvg-logo="https://i.imgur.com/C7IaIKC.png" tvg-id="ts270", Janam TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
